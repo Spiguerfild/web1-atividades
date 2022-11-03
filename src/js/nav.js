@@ -17,6 +17,7 @@ export const nav = /*html*/ `
         <!-- Sub Menu-->
         <li><a class="primary" href="./login.html">Formulário de Acesso</a></li> <!-- Item do submenu-->
         <li><a class="primary" href="./lista-tarefas.html">Lista de tarefas</a></li> <!-- Item do submenu-->
+        <li><a class="primary" href="./formulario-pagamento.html">Formulário de pagamentos</a></li> <!-- Item do submenu-->
       </ul>
       <!-- fim do Sub Menu-->
     </details>
