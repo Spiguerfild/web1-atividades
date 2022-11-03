@@ -18,3 +18,4 @@ btn_add.addEventListener('click',function(){
 `
 lista_trfs.appendChild(nova_li)
 })
+d
