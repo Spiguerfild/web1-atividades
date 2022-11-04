@@ -20,8 +20,8 @@ btn_add.addEventListener("click", function () {
 
   let btn_excluir = document.createElement("button");
   btn_excluir.setAttribute("id", "deu");
-  let texto = document.createTextNode("Excluir");
-  btn_excluir.appendChild(texto);
+  
+  btn_excluir.textContent = 'Excluir'
   btn_excluir.className = "btn-excluir";
 
   nova_li.appendChild(btn_excluir);
