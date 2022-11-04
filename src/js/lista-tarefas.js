@@ -12,8 +12,9 @@ btn_add.addEventListener("click", function () {
 
   nova_li.innerHTML = `
 	<div>${input_value}</div>
-	lista_trfs.appendChild(nova_li);
-`;
+	
+`
+  lista_trfs.appendChild(nova_li);
 
   
 
