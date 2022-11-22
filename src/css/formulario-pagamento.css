@@ -111,3 +111,8 @@
     right: var(--padding);
     bottom: var(--padding);
 }
+.ccv-card{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
